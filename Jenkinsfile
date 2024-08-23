@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Git Pulling') {
             steps {
-                git branch: 'master', url: 'https://github.com/gokulsm1197/Kubernetes-DevSecOps-Project/tree/6a472ac29548b3c1244a91174e6668f7b5765474/Kubernetes-DevSecOps-Project'
+                git branch: 'master', url: 'https://github.com/gokulsm1197/Kubernetes-DevSecOps-Project01.git'
             }
         }
         stage('Init') {
