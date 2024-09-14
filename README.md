@@ -121,24 +121,24 @@ AWS Elastic Load Balancer routes incoming traffic to the appropriate pods in the
 Prometheus collects metrics from the application and cluster components, while Grafana visualizes these metrics.
 
 
-### **Jenkins Overview**
+## **Jenkins Overview**
 ![Screenshot (182)](https://github.com/user-attachments/assets/3bf6b84b-f25a-4a68-b13f-3985c404d2d8)
 
 
-### **Tools Installation Jenkins Server**
+## **Tools Installation Jenkins Server**
 ![Screenshot (30)](https://github.com/user-attachments/assets/d057249c-b691-492d-9d44-7c2e2e8e3c61)
 
-### **Jenkins Credentials**
+## **Jenkins Credentials**
 ![Screenshot (31)](https://github.com/user-attachments/assets/561213d8-3af2-4476-bf78-76131bcc3b5a)
 ![Screenshot (32)](https://github.com/user-attachments/assets/d840fc51-4143-4446-8427-abcb8b6b4768)
 ![Screenshot (33)](https://github.com/user-attachments/assets/3a7c45a8-7348-4be8-97a3-cc627908d650)
 
-### **AWS S3 Bucket Creation**
+## **AWS S3 Bucket Creation**
 ![Screenshot (35)](https://github.com/user-attachments/assets/ae03c40b-9b48-445a-a96d-c32ff96823e4)
 ![Screenshot (34)](https://github.com/user-attachments/assets/30e89777-6c4f-4ab6-b92d-6ead74b898d3)
 ![Screenshot (36)](https://github.com/user-attachments/assets/4cae59e2-db75-400a-9f2b-babcd617f950)
 
-### **Terraform Amazon EKS Creation Via Jenkins Pipeline**
+## **Terraform Amazon EKS Creation Via Jenkins Pipeline**
 ![Screenshot (41)](https://github.com/user-attachments/assets/06418281-c7f2-427a-9759-e2c7f2ba3467)
 ![Screenshot (37)](https://github.com/user-attachments/assets/d08c810f-dc34-4c45-a740-d758b2a04d31)
 ![Screenshot (40)](https://github.com/user-attachments/assets/f413ddd1-123b-4f7d-ba0b-8dd243467eb9)
@@ -148,18 +148,18 @@ Prometheus collects metrics from the application and cluster components, while G
 ![Screenshot (48)](https://github.com/user-attachments/assets/5c40015e-4235-49bd-98a3-0a9149d87785)
 ![Screenshot (199)](https://github.com/user-attachments/assets/27f2a632-b11a-4b15-9bd8-eb1247d50df2)
 
-### **AWS S3 Bucket OUTPUT**
+## **AWS S3 Bucket OUTPUT**
 ![Screenshot (188)](https://github.com/user-attachments/assets/bf8e0721-23d3-4ffb-ac5f-d2907d57b7e9)
 
 
-### **Jump Server Based on EKS VPC and Tools Install**
+## **Jump Server Based on EKS VPC and Tools Install**
 ![Screenshot (43)](https://github.com/user-attachments/assets/65d26d53-fa11-4d11-962d-4cdcd718ceb8)
 ![Screenshot (44)](https://github.com/user-attachments/assets/c8e08067-53a4-4df5-b1ce-eda115fccbf7)
 ![Screenshot (45)](https://github.com/user-attachments/assets/39759502-8461-4595-8f49-1312cf5d1fac)
 ![Screenshot (46)](https://github.com/user-attachments/assets/e4386c11-1f2b-4664-8b58-563e728cb871)
 ![Screenshot (50)](https://github.com/user-attachments/assets/f2d69a08-7a5b-4a3d-b810-2bcc95a55de7)
 
-### **AWS Load Balancer Controller Installation**
+## **AWS Load Balancer Controller Installation**
 ![Screenshot (53)](https://github.com/user-attachments/assets/2cb1aa73-6d9a-4ead-ace6-6478a9285f77)
 ![Screenshot (58)](https://github.com/user-attachments/assets/c71b5437-ca74-4674-bc8a-4880c08fe69f)
 ![Screenshot (59)](https://github.com/user-attachments/assets/2cca6067-f7ef-487f-a51e-185f3e5d9892)
@@ -167,10 +167,10 @@ Prometheus collects metrics from the application and cluster components, while G
 ![Screenshot (61)](https://github.com/user-attachments/assets/431870b2-cee7-4525-b099-1921dd863e27)
 ![Screenshot (62)](https://github.com/user-attachments/assets/5e7ef0b4-11d3-480f-95ec-d4f0fc89ba66)
 
-### **AWS Dynamodb Creation**
+## **AWS Dynamodb Creation**
 ![Screenshot (39)](https://github.com/user-attachments/assets/92b05af4-6f44-442d-bd3f-e8c5422766ad)
 
-### **Argocd Installation**
+## **Argocd Installation**
 ![Screenshot (63)](https://github.com/user-attachments/assets/57a67eb5-c465-4d8f-9f05-57f97d7782f5)
 ![Screenshot (65)](https://github.com/user-attachments/assets/0aa37ac1-5ff2-4a26-b8b3-e217f3abdaf2)
 ![Screenshot (67)](https://github.com/user-attachments/assets/4c530b8b-d75d-45e2-978a-676275e36bde)
@@ -179,7 +179,7 @@ Prometheus collects metrics from the application and cluster components, while G
 ![Screenshot (72)](https://github.com/user-attachments/assets/98641194-6e9d-4cbd-a70b-8b2ce886d9fb)
 ![Screenshot (73)](https://github.com/user-attachments/assets/b4053bdb-5c07-4df4-8bae-e507a2eaa30a)
 
-### **Sonarqube Setup**
+## **Sonarqube Setup**
 ![Screenshot (74)](https://github.com/user-attachments/assets/b02b85a3-9433-45ac-bcb0-77745f4a2241)
 ![Screenshot (75)](https://github.com/user-attachments/assets/e0380489-b4e9-4f61-91a6-0d878c887e34)
 ![Screenshot (76)](https://github.com/user-attachments/assets/9f709bc2-5f2b-4c73-9855-9bc6d87d046c)
@@ -187,43 +187,43 @@ Prometheus collects metrics from the application and cluster components, while G
 ![Screenshot (80)](https://github.com/user-attachments/assets/ee382e55-0fe2-4f41-a1d5-c3494f4402f0)
 ![Screenshot (81)](https://github.com/user-attachments/assets/b4b5e036-55b5-48fd-a7e7-281b4e25bf9e)
 
-### **Jenkins Setup Pipeline Job For Frontend and Backend**
+## **Jenkins Setup Pipeline Job For Frontend and Backend**
 ![Screenshot (87)](https://github.com/user-attachments/assets/f25d6201-4b2c-404e-a12c-040e376e1c4d)
 ![Screenshot (88)](https://github.com/user-attachments/assets/ee408fca-e4b7-4a09-983f-41dff279eb51)
 ![Screenshot (104)](https://github.com/user-attachments/assets/4ff78555-03af-4ba8-8ca4-990944f096b1)
 ![Screenshot (94)](https://github.com/user-attachments/assets/8320789d-7eab-4116-9688-5cb2d85288e9)
 
-### **AWS ECR repository OUTPUT**
+## **AWS ECR repository OUTPUT**
 ![Screenshot (112)](https://github.com/user-attachments/assets/100d9d0a-832e-4b96-b8d8-8ae92739eb3d)
 ![Screenshot (111)](https://github.com/user-attachments/assets/c873c102-4111-46a4-b161-baa2eb9d28db)
 ![Screenshot (96)](https://github.com/user-attachments/assets/2db8d049-d917-4289-a670-5e59e278c09d)
 
-### **Sonarqube Scanning** 
+## **Sonarqube Scanning** 
 ![Screenshot (107)](https://github.com/user-attachments/assets/08e76bdf-018f-40fe-94ef-fcdf9f25e156)
 ![Screenshot (92)](https://github.com/user-attachments/assets/6d2ab355-cd1b-4ace-85db-7f7b09c68bc2)
 ![Screenshot (101)](https://github.com/user-attachments/assets/a1e24b34-0fb9-4bb3-8c2b-22bb74f97811)
 
-### **Argocd OUTPUT**
+## **Argocd OUTPUT**
 ![Screenshot (171)](https://github.com/user-attachments/assets/ed1ec3c7-db07-4e1f-bfc2-12b4d2b813d8)
 ![Screenshot (168)](https://github.com/user-attachments/assets/c840ecbd-9b55-4ba3-a9b7-f9112ff8329a)
 ![Screenshot (169)](https://github.com/user-attachments/assets/00dbfaba-505f-4a43-a861-ec05fb6a45ac)
 ![Screenshot (167)](https://github.com/user-attachments/assets/207b2504-1247-4c6b-b245-410301efdb40)
 
 
-### **Monitoring Tools Install**
+## **Monitoring Tools Install**
 ![Screenshot (139)](https://github.com/user-attachments/assets/dd124583-1033-41f8-8c37-dba70a494477)
 ![Screenshot (143)](https://github.com/user-attachments/assets/04bddf7f-e3d3-432b-be73-9b4503955c2e)
 
-### **Jump Server OUTPUT**
+## **Jump Server OUTPUT**
 ![Screenshot (178)](https://github.com/user-attachments/assets/bbec4df4-dc22-41c9-ac28-15e17f2a624c)
 ![Screenshot (180)](https://github.com/user-attachments/assets/39f4c17c-47a9-4b3f-9079-8863547019e2)
 ![Screenshot (202)](https://github.com/user-attachments/assets/5bb3239e-f7d1-4b52-bcbd-c1b469895147)
 
 
-### **Application OUTPUT**
+## **Application OUTPUT**
 ![Screenshot (137)](https://github.com/user-attachments/assets/9a372132-0565-4f32-9280-f2b742cd83ba)
 
-### **Monitoring OUTPUT**
+## **Monitoring OUTPUT**
 ![Screenshot (144)](https://github.com/user-attachments/assets/91ce1109-1c5e-467e-9e7b-f277a38804e3)
 ![Screenshot (147)](https://github.com/user-attachments/assets/f2eb7e58-a5d1-4655-ad51-08a7dba1e6d4)
 ![Screenshot (150)](https://github.com/user-attachments/assets/05d71013-bba1-46c0-8849-a685ec05f264)
