@@ -15,7 +15,7 @@ This project showcases the deployment of a React.js application using AWS Dynamo
 - SonarQube
 - Trivy FS Scan
 - Trivy Image Scan
-- Amazon Elastic Kubernetes Service (EKS
+- Amazon Elastic Kubernetes Service (EKS)
 - Jump Server (Bastion Host)
 - AWS Elastic Load Balancer (ELB)
 - Helm
